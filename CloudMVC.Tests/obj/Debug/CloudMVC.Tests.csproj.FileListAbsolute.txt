@@ -1,0 +1,157 @@
+p:\users\svispute\documents\visual studio 2013\Projects\CloudMVC\CloudMVC.Tests\bin\Debug\ApplicationInsights.config
+p:\users\svispute\documents\visual studio 2013\Projects\CloudMVC\CloudMVC.Tests\bin\Debug\CloudMVC.Tests.dll.config
+p:\users\svispute\documents\visual studio 2013\Projects\CloudMVC\CloudMVC.Tests\bin\Debug\CloudMVC.Tests.dll
+p:\users\svispute\documents\visual studio 2013\Projects\CloudMVC\CloudMVC.Tests\bin\Debug\CloudMVC.Tests.pdb
+p:\users\svispute\documents\visual studio 2013\Projects\CloudMVC\CloudMVC.Tests\bin\Debug\CloudMVC.dll
+p:\users\svispute\documents\visual studio 2013\Projects\CloudMVC\CloudMVC.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+p:\users\svispute\documents\visual studio 2013\Projects\CloudMVC\CloudMVC.Tests\bin\Debug\Newtonsoft.Json.dll
+p:\users\svispute\documents\visual studio 2013\Projects\CloudMVC\CloudMVC.Tests\bin\Debug\System.Net.Http.Formatting.dll
+p:\users\svispute\documents\visual studio 2013\Projects\CloudMVC\CloudMVC.Tests\bin\Debug\System.Web.Helpers.dll
+p:\users\svispute\documents\visual studio 2013\Projects\CloudMVC\CloudMVC.Tests\bin\Debug\System.Web.Http.dll
+p:\users\svispute\documents\visual studio 2013\Projects\CloudMVC\CloudMVC.Tests\bin\Debug\System.Web.Http.WebHost.dll
+p:\users\svispute\documents\visual studio 2013\Projects\CloudMVC\CloudMVC.Tests\bin\Debug\System.Web.Mvc.dll
+p:\users\svispute\documents\visual studio 2013\Projects\CloudMVC\CloudMVC.Tests\bin\Debug\System.Web.Razor.dll
+p:\users\svispute\documents\visual studio 2013\Projects\CloudMVC\CloudMVC.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+p:\users\svispute\documents\visual studio 2013\Projects\CloudMVC\CloudMVC.Tests\bin\Debug\System.Web.WebPages.dll
+p:\users\svispute\documents\visual studio 2013\Projects\CloudMVC\CloudMVC.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+p:\users\svispute\documents\visual studio 2013\Projects\CloudMVC\CloudMVC.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+p:\users\svispute\documents\visual studio 2013\Projects\CloudMVC\CloudMVC.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+p:\users\svispute\documents\visual studio 2013\Projects\CloudMVC\CloudMVC.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+p:\users\svispute\documents\visual studio 2013\Projects\CloudMVC\CloudMVC.Tests\bin\Debug\System.Web.Optimization.dll
+p:\users\svispute\documents\visual studio 2013\Projects\CloudMVC\CloudMVC.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+p:\users\svispute\documents\visual studio 2013\Projects\CloudMVC\CloudMVC.Tests\bin\Debug\Microsoft.Owin.dll
+p:\users\svispute\documents\visual studio 2013\Projects\CloudMVC\CloudMVC.Tests\bin\Debug\Owin.dll
+p:\users\svispute\documents\visual studio 2013\Projects\CloudMVC\CloudMVC.Tests\bin\Debug\Microsoft.Owin.Security.dll
+p:\users\svispute\documents\visual studio 2013\Projects\CloudMVC\CloudMVC.Tests\bin\Debug\EntityFramework.dll
+p:\users\svispute\documents\visual studio 2013\Projects\CloudMVC\CloudMVC.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+p:\users\svispute\documents\visual studio 2013\Projects\CloudMVC\CloudMVC.Tests\bin\Debug\System.Web.Http.Owin.dll
+p:\users\svispute\documents\visual studio 2013\Projects\CloudMVC\CloudMVC.Tests\bin\Debug\CloudMVC.pdb
+p:\users\svispute\documents\visual studio 2013\Projects\CloudMVC\CloudMVC.Tests\bin\Debug\Newtonsoft.Json.xml
+p:\users\svispute\documents\visual studio 2013\Projects\CloudMVC\CloudMVC.Tests\bin\Debug\System.Net.Http.Formatting.xml
+p:\users\svispute\documents\visual studio 2013\Projects\CloudMVC\CloudMVC.Tests\bin\Debug\System.Web.Helpers.xml
+p:\users\svispute\documents\visual studio 2013\Projects\CloudMVC\CloudMVC.Tests\bin\Debug\System.Web.Http.xml
+p:\users\svispute\documents\visual studio 2013\Projects\CloudMVC\CloudMVC.Tests\bin\Debug\System.Web.Http.WebHost.xml
+p:\users\svispute\documents\visual studio 2013\Projects\CloudMVC\CloudMVC.Tests\bin\Debug\System.Web.Mvc.xml
+p:\users\svispute\documents\visual studio 2013\Projects\CloudMVC\CloudMVC.Tests\bin\Debug\System.Web.Razor.xml
+p:\users\svispute\documents\visual studio 2013\Projects\CloudMVC\CloudMVC.Tests\bin\Debug\System.Web.WebPages.xml
+p:\users\svispute\documents\visual studio 2013\Projects\CloudMVC\CloudMVC.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+p:\users\svispute\documents\visual studio 2013\Projects\CloudMVC\CloudMVC.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+p:\users\svispute\documents\visual studio 2013\Projects\CloudMVC\CloudMVC.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+p:\users\svispute\documents\visual studio 2013\Projects\CloudMVC\CloudMVC.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+p:\users\svispute\documents\visual studio 2013\Projects\CloudMVC\CloudMVC.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+p:\users\svispute\documents\visual studio 2013\Projects\CloudMVC\CloudMVC.Tests\bin\Debug\System.Web.Optimization.xml
+p:\users\svispute\documents\visual studio 2013\Projects\CloudMVC\CloudMVC.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+p:\users\svispute\documents\visual studio 2013\Projects\CloudMVC\CloudMVC.Tests\bin\Debug\Microsoft.Owin.xml
+p:\users\svispute\documents\visual studio 2013\Projects\CloudMVC\CloudMVC.Tests\bin\Debug\Microsoft.Owin.Security.xml
+p:\users\svispute\documents\visual studio 2013\Projects\CloudMVC\CloudMVC.Tests\bin\Debug\EntityFramework.xml
+p:\users\svispute\documents\visual studio 2013\Projects\CloudMVC\CloudMVC.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+p:\users\svispute\documents\visual studio 2013\Projects\CloudMVC\CloudMVC.Tests\bin\Debug\System.Web.Http.Owin.xml
+p:\users\svispute\documents\visual studio 2013\Projects\CloudMVC\CloudMVC.Tests\obj\Debug\CloudMVC.Tests.csprojResolveAssemblyReference.cache
+p:\users\svispute\documents\visual studio 2013\Projects\CloudMVC\CloudMVC.Tests\obj\Debug\CloudMVC.Tests.dll
+p:\users\svispute\documents\visual studio 2013\Projects\CloudMVC\CloudMVC.Tests\obj\Debug\CloudMVC.Tests.pdb
+C:\Users\shail77\Documents\Visual Studio 2015\Projects\CloudMVC\CloudMVC.Tests\bin\Debug\ApplicationInsights.config
+C:\Users\shail77\Documents\Visual Studio 2015\Projects\CloudMVC\CloudMVC.Tests\bin\Debug\CloudMVC.Tests.dll.config
+C:\Users\shail77\Documents\Visual Studio 2015\Projects\CloudMVC\CloudMVC.Tests\bin\Debug\CloudMVC.Tests.dll
+C:\Users\shail77\Documents\Visual Studio 2015\Projects\CloudMVC\CloudMVC.Tests\bin\Debug\CloudMVC.Tests.pdb
+C:\Users\shail77\Documents\Visual Studio 2015\Projects\CloudMVC\CloudMVC.Tests\bin\Debug\CloudMVC.dll
+C:\Users\shail77\Documents\Visual Studio 2015\Projects\CloudMVC\CloudMVC.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\shail77\Documents\Visual Studio 2015\Projects\CloudMVC\CloudMVC.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\shail77\Documents\Visual Studio 2015\Projects\CloudMVC\CloudMVC.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\shail77\Documents\Visual Studio 2015\Projects\CloudMVC\CloudMVC.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\shail77\Documents\Visual Studio 2015\Projects\CloudMVC\CloudMVC.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\shail77\Documents\Visual Studio 2015\Projects\CloudMVC\CloudMVC.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\shail77\Documents\Visual Studio 2015\Projects\CloudMVC\CloudMVC.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\shail77\Documents\Visual Studio 2015\Projects\CloudMVC\CloudMVC.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\shail77\Documents\Visual Studio 2015\Projects\CloudMVC\CloudMVC.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\shail77\Documents\Visual Studio 2015\Projects\CloudMVC\CloudMVC.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\shail77\Documents\Visual Studio 2015\Projects\CloudMVC\CloudMVC.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\shail77\Documents\Visual Studio 2015\Projects\CloudMVC\CloudMVC.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\shail77\Documents\Visual Studio 2015\Projects\CloudMVC\CloudMVC.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Users\shail77\Documents\Visual Studio 2015\Projects\CloudMVC\CloudMVC.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\shail77\Documents\Visual Studio 2015\Projects\CloudMVC\CloudMVC.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\shail77\Documents\Visual Studio 2015\Projects\CloudMVC\CloudMVC.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\shail77\Documents\Visual Studio 2015\Projects\CloudMVC\CloudMVC.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\shail77\Documents\Visual Studio 2015\Projects\CloudMVC\CloudMVC.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\Users\shail77\Documents\Visual Studio 2015\Projects\CloudMVC\CloudMVC.Tests\bin\Debug\Owin.dll
+C:\Users\shail77\Documents\Visual Studio 2015\Projects\CloudMVC\CloudMVC.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\shail77\Documents\Visual Studio 2015\Projects\CloudMVC\CloudMVC.Tests\bin\Debug\System.Web.Http.Owin.dll
+C:\Users\shail77\Documents\Visual Studio 2015\Projects\CloudMVC\CloudMVC.Tests\bin\Debug\EntityFramework.dll
+C:\Users\shail77\Documents\Visual Studio 2015\Projects\CloudMVC\CloudMVC.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\shail77\Documents\Visual Studio 2015\Projects\CloudMVC\CloudMVC.Tests\bin\Debug\CloudMVC.pdb
+C:\Users\shail77\Documents\Visual Studio 2015\Projects\CloudMVC\CloudMVC.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\shail77\Documents\Visual Studio 2015\Projects\CloudMVC\CloudMVC.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\shail77\Documents\Visual Studio 2015\Projects\CloudMVC\CloudMVC.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\shail77\Documents\Visual Studio 2015\Projects\CloudMVC\CloudMVC.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\shail77\Documents\Visual Studio 2015\Projects\CloudMVC\CloudMVC.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\shail77\Documents\Visual Studio 2015\Projects\CloudMVC\CloudMVC.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\shail77\Documents\Visual Studio 2015\Projects\CloudMVC\CloudMVC.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\shail77\Documents\Visual Studio 2015\Projects\CloudMVC\CloudMVC.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\shail77\Documents\Visual Studio 2015\Projects\CloudMVC\CloudMVC.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\shail77\Documents\Visual Studio 2015\Projects\CloudMVC\CloudMVC.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\shail77\Documents\Visual Studio 2015\Projects\CloudMVC\CloudMVC.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\shail77\Documents\Visual Studio 2015\Projects\CloudMVC\CloudMVC.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Users\shail77\Documents\Visual Studio 2015\Projects\CloudMVC\CloudMVC.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\shail77\Documents\Visual Studio 2015\Projects\CloudMVC\CloudMVC.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\shail77\Documents\Visual Studio 2015\Projects\CloudMVC\CloudMVC.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\shail77\Documents\Visual Studio 2015\Projects\CloudMVC\CloudMVC.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\shail77\Documents\Visual Studio 2015\Projects\CloudMVC\CloudMVC.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\Users\shail77\Documents\Visual Studio 2015\Projects\CloudMVC\CloudMVC.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\shail77\Documents\Visual Studio 2015\Projects\CloudMVC\CloudMVC.Tests\bin\Debug\System.Web.Http.Owin.xml
+C:\Users\shail77\Documents\Visual Studio 2015\Projects\CloudMVC\CloudMVC.Tests\bin\Debug\EntityFramework.xml
+C:\Users\shail77\Documents\Visual Studio 2015\Projects\CloudMVC\CloudMVC.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\shail77\Documents\Visual Studio 2015\Projects\CloudMVC\CloudMVC.Tests\obj\Debug\CloudMVC.Tests.csprojResolveAssemblyReference.cache
+C:\Users\shail77\Documents\Visual Studio 2015\Projects\CloudMVC\CloudMVC.Tests\obj\Debug\CloudMVC.Tests.dll
+C:\Users\shail77\Documents\Visual Studio 2015\Projects\CloudMVC\CloudMVC.Tests\obj\Debug\CloudMVC.Tests.pdb
+C:\Users\shail77\Source\Repos\CloudMVC\CloudMVC.Tests\bin\Debug\ApplicationInsights.config
+C:\Users\shail77\Source\Repos\CloudMVC\CloudMVC.Tests\bin\Debug\CloudMVC.Tests.dll.config
+C:\Users\shail77\Source\Repos\CloudMVC\CloudMVC.Tests\bin\Debug\CloudMVC.Tests.dll
+C:\Users\shail77\Source\Repos\CloudMVC\CloudMVC.Tests\bin\Debug\CloudMVC.Tests.pdb
+C:\Users\shail77\Source\Repos\CloudMVC\CloudMVC.Tests\bin\Debug\CloudMVC.dll
+C:\Users\shail77\Source\Repos\CloudMVC\CloudMVC.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\shail77\Source\Repos\CloudMVC\CloudMVC.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\shail77\Source\Repos\CloudMVC\CloudMVC.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\shail77\Source\Repos\CloudMVC\CloudMVC.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\shail77\Source\Repos\CloudMVC\CloudMVC.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\shail77\Source\Repos\CloudMVC\CloudMVC.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\shail77\Source\Repos\CloudMVC\CloudMVC.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\shail77\Source\Repos\CloudMVC\CloudMVC.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\shail77\Source\Repos\CloudMVC\CloudMVC.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\shail77\Source\Repos\CloudMVC\CloudMVC.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\shail77\Source\Repos\CloudMVC\CloudMVC.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\shail77\Source\Repos\CloudMVC\CloudMVC.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\shail77\Source\Repos\CloudMVC\CloudMVC.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Users\shail77\Source\Repos\CloudMVC\CloudMVC.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\shail77\Source\Repos\CloudMVC\CloudMVC.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\shail77\Source\Repos\CloudMVC\CloudMVC.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\shail77\Source\Repos\CloudMVC\CloudMVC.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\shail77\Source\Repos\CloudMVC\CloudMVC.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\Users\shail77\Source\Repos\CloudMVC\CloudMVC.Tests\bin\Debug\Owin.dll
+C:\Users\shail77\Source\Repos\CloudMVC\CloudMVC.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\shail77\Source\Repos\CloudMVC\CloudMVC.Tests\bin\Debug\System.Web.Http.Owin.dll
+C:\Users\shail77\Source\Repos\CloudMVC\CloudMVC.Tests\bin\Debug\EntityFramework.dll
+C:\Users\shail77\Source\Repos\CloudMVC\CloudMVC.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\shail77\Source\Repos\CloudMVC\CloudMVC.Tests\bin\Debug\CloudMVC.pdb
+C:\Users\shail77\Source\Repos\CloudMVC\CloudMVC.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\shail77\Source\Repos\CloudMVC\CloudMVC.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\shail77\Source\Repos\CloudMVC\CloudMVC.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\shail77\Source\Repos\CloudMVC\CloudMVC.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\shail77\Source\Repos\CloudMVC\CloudMVC.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\shail77\Source\Repos\CloudMVC\CloudMVC.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\shail77\Source\Repos\CloudMVC\CloudMVC.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\shail77\Source\Repos\CloudMVC\CloudMVC.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\shail77\Source\Repos\CloudMVC\CloudMVC.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\shail77\Source\Repos\CloudMVC\CloudMVC.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\shail77\Source\Repos\CloudMVC\CloudMVC.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\shail77\Source\Repos\CloudMVC\CloudMVC.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Users\shail77\Source\Repos\CloudMVC\CloudMVC.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\shail77\Source\Repos\CloudMVC\CloudMVC.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\shail77\Source\Repos\CloudMVC\CloudMVC.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\shail77\Source\Repos\CloudMVC\CloudMVC.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\shail77\Source\Repos\CloudMVC\CloudMVC.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\Users\shail77\Source\Repos\CloudMVC\CloudMVC.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\shail77\Source\Repos\CloudMVC\CloudMVC.Tests\bin\Debug\System.Web.Http.Owin.xml
+C:\Users\shail77\Source\Repos\CloudMVC\CloudMVC.Tests\bin\Debug\EntityFramework.xml
+C:\Users\shail77\Source\Repos\CloudMVC\CloudMVC.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\shail77\Source\Repos\CloudMVC\CloudMVC.Tests\obj\Debug\CloudMVC.Tests.csprojResolveAssemblyReference.cache
+C:\Users\shail77\Source\Repos\CloudMVC\CloudMVC.Tests\obj\Debug\CloudMVC.Tests.dll
+C:\Users\shail77\Source\Repos\CloudMVC\CloudMVC.Tests\obj\Debug\CloudMVC.Tests.pdb

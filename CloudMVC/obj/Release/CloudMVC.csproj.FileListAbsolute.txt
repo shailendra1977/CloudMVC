@@ -1,0 +1,152 @@
+p:\users\svispute\documents\visual studio 2013\Projects\CloudMVC\CloudMVC\bin\ApplicationInsights.config
+p:\users\svispute\documents\visual studio 2013\Projects\CloudMVC\CloudMVC\bin\CloudMVC.dll.config
+p:\users\svispute\documents\visual studio 2013\Projects\CloudMVC\CloudMVC\bin\CloudMVC.dll
+p:\users\svispute\documents\visual studio 2013\Projects\CloudMVC\CloudMVC\bin\CloudMVC.pdb
+p:\users\svispute\documents\visual studio 2013\Projects\CloudMVC\CloudMVC\bin\Antlr3.Runtime.dll
+p:\users\svispute\documents\visual studio 2013\Projects\CloudMVC\CloudMVC\bin\EntityFramework.dll
+p:\users\svispute\documents\visual studio 2013\Projects\CloudMVC\CloudMVC\bin\EntityFramework.SqlServer.dll
+p:\users\svispute\documents\visual studio 2013\Projects\CloudMVC\CloudMVC\bin\Microsoft.AI.Agent.Intercept.dll
+p:\users\svispute\documents\visual studio 2013\Projects\CloudMVC\CloudMVC\bin\Microsoft.AI.DependencyCollector.dll
+p:\users\svispute\documents\visual studio 2013\Projects\CloudMVC\CloudMVC\bin\Microsoft.AI.PerfCounterCollector.dll
+p:\users\svispute\documents\visual studio 2013\Projects\CloudMVC\CloudMVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+p:\users\svispute\documents\visual studio 2013\Projects\CloudMVC\CloudMVC\bin\Microsoft.AI.Web.dll
+p:\users\svispute\documents\visual studio 2013\Projects\CloudMVC\CloudMVC\bin\Microsoft.AI.WindowsServer.dll
+p:\users\svispute\documents\visual studio 2013\Projects\CloudMVC\CloudMVC\bin\Microsoft.ApplicationInsights.dll
+p:\users\svispute\documents\visual studio 2013\Projects\CloudMVC\CloudMVC\bin\Microsoft.AspNet.Identity.Core.dll
+p:\users\svispute\documents\visual studio 2013\Projects\CloudMVC\CloudMVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+p:\users\svispute\documents\visual studio 2013\Projects\CloudMVC\CloudMVC\bin\Microsoft.AspNet.Identity.Owin.dll
+p:\users\svispute\documents\visual studio 2013\Projects\CloudMVC\CloudMVC\bin\Microsoft.Owin.dll
+p:\users\svispute\documents\visual studio 2013\Projects\CloudMVC\CloudMVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+p:\users\svispute\documents\visual studio 2013\Projects\CloudMVC\CloudMVC\bin\Microsoft.Owin.Security.Cookies.dll
+p:\users\svispute\documents\visual studio 2013\Projects\CloudMVC\CloudMVC\bin\Microsoft.Owin.Security.dll
+p:\users\svispute\documents\visual studio 2013\Projects\CloudMVC\CloudMVC\bin\Microsoft.Owin.Security.Facebook.dll
+p:\users\svispute\documents\visual studio 2013\Projects\CloudMVC\CloudMVC\bin\Microsoft.Owin.Security.Google.dll
+p:\users\svispute\documents\visual studio 2013\Projects\CloudMVC\CloudMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+p:\users\svispute\documents\visual studio 2013\Projects\CloudMVC\CloudMVC\bin\Microsoft.Owin.Security.OAuth.dll
+p:\users\svispute\documents\visual studio 2013\Projects\CloudMVC\CloudMVC\bin\Microsoft.Owin.Security.Twitter.dll
+p:\users\svispute\documents\visual studio 2013\Projects\CloudMVC\CloudMVC\bin\Microsoft.Web.Infrastructure.dll
+p:\users\svispute\documents\visual studio 2013\Projects\CloudMVC\CloudMVC\bin\Newtonsoft.Json.dll
+p:\users\svispute\documents\visual studio 2013\Projects\CloudMVC\CloudMVC\bin\Owin.dll
+p:\users\svispute\documents\visual studio 2013\Projects\CloudMVC\CloudMVC\bin\System.Net.Http.Formatting.dll
+p:\users\svispute\documents\visual studio 2013\Projects\CloudMVC\CloudMVC\bin\System.Web.Helpers.dll
+p:\users\svispute\documents\visual studio 2013\Projects\CloudMVC\CloudMVC\bin\System.Web.Http.dll
+p:\users\svispute\documents\visual studio 2013\Projects\CloudMVC\CloudMVC\bin\System.Web.Http.Owin.dll
+p:\users\svispute\documents\visual studio 2013\Projects\CloudMVC\CloudMVC\bin\System.Web.Http.WebHost.dll
+p:\users\svispute\documents\visual studio 2013\Projects\CloudMVC\CloudMVC\bin\System.Web.Mvc.dll
+p:\users\svispute\documents\visual studio 2013\Projects\CloudMVC\CloudMVC\bin\System.Web.Optimization.dll
+p:\users\svispute\documents\visual studio 2013\Projects\CloudMVC\CloudMVC\bin\System.Web.Razor.dll
+p:\users\svispute\documents\visual studio 2013\Projects\CloudMVC\CloudMVC\bin\System.Web.WebPages.Deployment.dll
+p:\users\svispute\documents\visual studio 2013\Projects\CloudMVC\CloudMVC\bin\System.Web.WebPages.dll
+p:\users\svispute\documents\visual studio 2013\Projects\CloudMVC\CloudMVC\bin\System.Web.WebPages.Razor.dll
+p:\users\svispute\documents\visual studio 2013\Projects\CloudMVC\CloudMVC\bin\WebGrease.dll
+p:\users\svispute\documents\visual studio 2013\Projects\CloudMVC\CloudMVC\bin\Microsoft.AI.DependencyCollector.xml
+p:\users\svispute\documents\visual studio 2013\Projects\CloudMVC\CloudMVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+p:\users\svispute\documents\visual studio 2013\Projects\CloudMVC\CloudMVC\bin\Microsoft.AI.Web.xml
+p:\users\svispute\documents\visual studio 2013\Projects\CloudMVC\CloudMVC\bin\Microsoft.AI.WindowsServer.xml
+p:\users\svispute\documents\visual studio 2013\Projects\CloudMVC\CloudMVC\bin\Microsoft.ApplicationInsights.xml
+p:\users\svispute\documents\visual studio 2013\Projects\CloudMVC\CloudMVC\bin\Newtonsoft.Json.xml
+p:\users\svispute\documents\visual studio 2013\Projects\CloudMVC\CloudMVC\bin\System.Net.Http.Formatting.xml
+p:\users\svispute\documents\visual studio 2013\Projects\CloudMVC\CloudMVC\bin\System.Web.Helpers.xml
+p:\users\svispute\documents\visual studio 2013\Projects\CloudMVC\CloudMVC\bin\System.Web.Http.xml
+p:\users\svispute\documents\visual studio 2013\Projects\CloudMVC\CloudMVC\bin\System.Web.Http.WebHost.xml
+p:\users\svispute\documents\visual studio 2013\Projects\CloudMVC\CloudMVC\bin\System.Web.Mvc.xml
+p:\users\svispute\documents\visual studio 2013\Projects\CloudMVC\CloudMVC\bin\System.Web.Optimization.xml
+p:\users\svispute\documents\visual studio 2013\Projects\CloudMVC\CloudMVC\bin\System.Web.Razor.xml
+p:\users\svispute\documents\visual studio 2013\Projects\CloudMVC\CloudMVC\bin\System.Web.WebPages.xml
+p:\users\svispute\documents\visual studio 2013\Projects\CloudMVC\CloudMVC\bin\System.Web.WebPages.Deployment.xml
+p:\users\svispute\documents\visual studio 2013\Projects\CloudMVC\CloudMVC\bin\System.Web.WebPages.Razor.xml
+p:\users\svispute\documents\visual studio 2013\Projects\CloudMVC\CloudMVC\bin\Antlr3.Runtime.pdb
+p:\users\svispute\documents\visual studio 2013\Projects\CloudMVC\CloudMVC\bin\EntityFramework.xml
+p:\users\svispute\documents\visual studio 2013\Projects\CloudMVC\CloudMVC\bin\EntityFramework.SqlServer.xml
+p:\users\svispute\documents\visual studio 2013\Projects\CloudMVC\CloudMVC\bin\Microsoft.AspNet.Identity.Core.xml
+p:\users\svispute\documents\visual studio 2013\Projects\CloudMVC\CloudMVC\bin\Microsoft.AspNet.Identity.Owin.xml
+p:\users\svispute\documents\visual studio 2013\Projects\CloudMVC\CloudMVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+p:\users\svispute\documents\visual studio 2013\Projects\CloudMVC\CloudMVC\bin\Microsoft.Owin.xml
+p:\users\svispute\documents\visual studio 2013\Projects\CloudMVC\CloudMVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+p:\users\svispute\documents\visual studio 2013\Projects\CloudMVC\CloudMVC\bin\Microsoft.Owin.Security.xml
+p:\users\svispute\documents\visual studio 2013\Projects\CloudMVC\CloudMVC\bin\Microsoft.Owin.Security.Facebook.xml
+p:\users\svispute\documents\visual studio 2013\Projects\CloudMVC\CloudMVC\bin\Microsoft.Owin.Security.Cookies.xml
+p:\users\svispute\documents\visual studio 2013\Projects\CloudMVC\CloudMVC\bin\Microsoft.Owin.Security.OAuth.xml
+p:\users\svispute\documents\visual studio 2013\Projects\CloudMVC\CloudMVC\bin\Microsoft.Owin.Security.Google.xml
+p:\users\svispute\documents\visual studio 2013\Projects\CloudMVC\CloudMVC\bin\Microsoft.Owin.Security.Twitter.xml
+p:\users\svispute\documents\visual studio 2013\Projects\CloudMVC\CloudMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+p:\users\svispute\documents\visual studio 2013\Projects\CloudMVC\CloudMVC\bin\System.Web.Http.Owin.xml
+p:\users\svispute\documents\visual studio 2013\Projects\CloudMVC\CloudMVC\obj\Release\CloudMVC.dll
+p:\users\svispute\documents\visual studio 2013\Projects\CloudMVC\CloudMVC\obj\Release\CloudMVC.pdb
+p:\users\svispute\documents\visual studio 2013\Projects\CloudMVC\CloudMVC\obj\Release\CloudMVC.csprojResolveAssemblyReference.cache
+C:\Users\shail77\Source\Repos\CloudMVC\CloudMVC\bin\ApplicationInsights.config
+C:\Users\shail77\Source\Repos\CloudMVC\CloudMVC\bin\CloudMVC.dll.config
+C:\Users\shail77\Source\Repos\CloudMVC\CloudMVC\bin\CloudMVC.dll
+C:\Users\shail77\Source\Repos\CloudMVC\CloudMVC\bin\CloudMVC.pdb
+C:\Users\shail77\Source\Repos\CloudMVC\CloudMVC\bin\Antlr3.Runtime.dll
+C:\Users\shail77\Source\Repos\CloudMVC\CloudMVC\bin\EntityFramework.dll
+C:\Users\shail77\Source\Repos\CloudMVC\CloudMVC\bin\EntityFramework.SqlServer.dll
+C:\Users\shail77\Source\Repos\CloudMVC\CloudMVC\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\shail77\Source\Repos\CloudMVC\CloudMVC\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\shail77\Source\Repos\CloudMVC\CloudMVC\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\shail77\Source\Repos\CloudMVC\CloudMVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\shail77\Source\Repos\CloudMVC\CloudMVC\bin\Microsoft.AI.Web.dll
+C:\Users\shail77\Source\Repos\CloudMVC\CloudMVC\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\shail77\Source\Repos\CloudMVC\CloudMVC\bin\Microsoft.ApplicationInsights.dll
+C:\Users\shail77\Source\Repos\CloudMVC\CloudMVC\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\shail77\Source\Repos\CloudMVC\CloudMVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\shail77\Source\Repos\CloudMVC\CloudMVC\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\shail77\Source\Repos\CloudMVC\CloudMVC\bin\Microsoft.Owin.dll
+C:\Users\shail77\Source\Repos\CloudMVC\CloudMVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\shail77\Source\Repos\CloudMVC\CloudMVC\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\shail77\Source\Repos\CloudMVC\CloudMVC\bin\Microsoft.Owin.Security.dll
+C:\Users\shail77\Source\Repos\CloudMVC\CloudMVC\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\shail77\Source\Repos\CloudMVC\CloudMVC\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\shail77\Source\Repos\CloudMVC\CloudMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\shail77\Source\Repos\CloudMVC\CloudMVC\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\shail77\Source\Repos\CloudMVC\CloudMVC\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\shail77\Source\Repos\CloudMVC\CloudMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\shail77\Source\Repos\CloudMVC\CloudMVC\bin\Newtonsoft.Json.dll
+C:\Users\shail77\Source\Repos\CloudMVC\CloudMVC\bin\Owin.dll
+C:\Users\shail77\Source\Repos\CloudMVC\CloudMVC\bin\System.Net.Http.Formatting.dll
+C:\Users\shail77\Source\Repos\CloudMVC\CloudMVC\bin\System.Web.Helpers.dll
+C:\Users\shail77\Source\Repos\CloudMVC\CloudMVC\bin\System.Web.Http.dll
+C:\Users\shail77\Source\Repos\CloudMVC\CloudMVC\bin\System.Web.Http.Owin.dll
+C:\Users\shail77\Source\Repos\CloudMVC\CloudMVC\bin\System.Web.Http.WebHost.dll
+C:\Users\shail77\Source\Repos\CloudMVC\CloudMVC\bin\System.Web.Mvc.dll
+C:\Users\shail77\Source\Repos\CloudMVC\CloudMVC\bin\System.Web.Optimization.dll
+C:\Users\shail77\Source\Repos\CloudMVC\CloudMVC\bin\System.Web.Razor.dll
+C:\Users\shail77\Source\Repos\CloudMVC\CloudMVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\shail77\Source\Repos\CloudMVC\CloudMVC\bin\System.Web.WebPages.dll
+C:\Users\shail77\Source\Repos\CloudMVC\CloudMVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\shail77\Source\Repos\CloudMVC\CloudMVC\bin\WebGrease.dll
+C:\Users\shail77\Source\Repos\CloudMVC\CloudMVC\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\shail77\Source\Repos\CloudMVC\CloudMVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\shail77\Source\Repos\CloudMVC\CloudMVC\bin\Microsoft.AI.Web.xml
+C:\Users\shail77\Source\Repos\CloudMVC\CloudMVC\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\shail77\Source\Repos\CloudMVC\CloudMVC\bin\Microsoft.ApplicationInsights.xml
+C:\Users\shail77\Source\Repos\CloudMVC\CloudMVC\bin\Newtonsoft.Json.xml
+C:\Users\shail77\Source\Repos\CloudMVC\CloudMVC\bin\System.Net.Http.Formatting.xml
+C:\Users\shail77\Source\Repos\CloudMVC\CloudMVC\bin\System.Web.Helpers.xml
+C:\Users\shail77\Source\Repos\CloudMVC\CloudMVC\bin\System.Web.Http.xml
+C:\Users\shail77\Source\Repos\CloudMVC\CloudMVC\bin\System.Web.Http.WebHost.xml
+C:\Users\shail77\Source\Repos\CloudMVC\CloudMVC\bin\System.Web.Mvc.xml
+C:\Users\shail77\Source\Repos\CloudMVC\CloudMVC\bin\System.Web.Optimization.xml
+C:\Users\shail77\Source\Repos\CloudMVC\CloudMVC\bin\System.Web.Razor.xml
+C:\Users\shail77\Source\Repos\CloudMVC\CloudMVC\bin\System.Web.WebPages.xml
+C:\Users\shail77\Source\Repos\CloudMVC\CloudMVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\shail77\Source\Repos\CloudMVC\CloudMVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\shail77\Source\Repos\CloudMVC\CloudMVC\bin\Antlr3.Runtime.pdb
+C:\Users\shail77\Source\Repos\CloudMVC\CloudMVC\bin\EntityFramework.xml
+C:\Users\shail77\Source\Repos\CloudMVC\CloudMVC\bin\EntityFramework.SqlServer.xml
+C:\Users\shail77\Source\Repos\CloudMVC\CloudMVC\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\shail77\Source\Repos\CloudMVC\CloudMVC\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\shail77\Source\Repos\CloudMVC\CloudMVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\shail77\Source\Repos\CloudMVC\CloudMVC\bin\Microsoft.Owin.xml
+C:\Users\shail77\Source\Repos\CloudMVC\CloudMVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\shail77\Source\Repos\CloudMVC\CloudMVC\bin\Microsoft.Owin.Security.xml
+C:\Users\shail77\Source\Repos\CloudMVC\CloudMVC\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\shail77\Source\Repos\CloudMVC\CloudMVC\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\shail77\Source\Repos\CloudMVC\CloudMVC\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\shail77\Source\Repos\CloudMVC\CloudMVC\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\shail77\Source\Repos\CloudMVC\CloudMVC\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\shail77\Source\Repos\CloudMVC\CloudMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\shail77\Source\Repos\CloudMVC\CloudMVC\bin\System.Web.Http.Owin.xml
+C:\Users\shail77\Source\Repos\CloudMVC\CloudMVC\obj\Release\CloudMVC.csprojResolveAssemblyReference.cache
+C:\Users\shail77\Source\Repos\CloudMVC\CloudMVC\obj\Release\CloudMVC.dll
+C:\Users\shail77\Source\Repos\CloudMVC\CloudMVC\obj\Release\CloudMVC.pdb
